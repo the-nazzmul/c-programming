@@ -4,7 +4,7 @@ int main()
 {
     // Signed integer data
 
-    printf("Signed Integers");
+    printf("Signed Integers\n");
 
     // Short - %d, %hi
     short a = 45;
@@ -31,7 +31,7 @@ int main()
     printf("I am hexadecimal: Decimal = %d, Hexadecimal = %X\n", h, h);
 
     // Unsigned Intergers
-    printf("Unsigned Integers");
+    printf("Unsigned Integers\n");
 
     // Unsigned short - %hu
     unsigned short us = 41;
