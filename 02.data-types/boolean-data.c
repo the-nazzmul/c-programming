@@ -1,8 +1,10 @@
 #include <stdio.h>
+#include <stdbool.h>
 
 int main()
 {
-    short is_logged_in = 1;
+    // short is_logged_in = 1;
+    bool is_logged_in = true;
 
     if (is_logged_in)
     {
